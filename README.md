@@ -1,6 +1,6 @@
 # Daily Activity Analyzer
 
-A passive Windows activity tracker that records your computer usage and generates AI-powered summaries of what you did during the day.
+A passive Windows activity tracker that records your computer usage, generates AI-powered summaries of what you did, and provides actionable suggestions to improve your daily productivity.
 
 ## Features
 
